@@ -16,5 +16,4 @@ if __name__ == '__main__':
     print('test2')
     print('test3')
     print('123')
-    print('this is for test 2')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
