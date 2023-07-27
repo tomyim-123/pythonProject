@@ -15,4 +15,5 @@ if __name__ == '__main__':
     print('test')
     print('test2')
     print('test3')
+    print('123')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
