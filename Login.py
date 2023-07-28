@@ -10,3 +10,6 @@ def Login(ids,passwords):
 def CreateSession():
   if True:
     print('Connect')
+def DeleteSession():
+  if True:
+    print('DisConnect')
