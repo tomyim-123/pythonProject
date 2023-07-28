@@ -1,7 +1,10 @@
-def Login(ids,passwords,hos):
+def Login(ids,passwords,hos,default):
   id = ''
   pw = ''
-  h = ''
+  if default !=0
+    h = default
+  else
+    h = ''
   if id in ids:
     if pw = ids.index(id) and h = hos.index(id):
       print('Go')
