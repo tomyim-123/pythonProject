@@ -1,4 +1,4 @@
 def a()
 def b()
 def c()
-  print('test')
+  print('test1')
