@@ -16,4 +16,4 @@ def CreateSession():
     print('Connect')
 def DeleteSession():
   if True:
-    print('DisConnect')
+    print('DisConnected')
