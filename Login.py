@@ -3,6 +3,7 @@ def Login(ids,passwords,hos,default):
   pw = ''
   if default !=0
     h = default
+    print(h)
   else
     h = ''
   if id in ids:
