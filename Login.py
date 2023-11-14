@@ -14,7 +14,7 @@ def Login(ids,passwords,hos,default):
     print('Back')
 def CreateSession():
   if True:
-    print('Connect')
+    print('Connected')
 def DeleteSession():
   if True:
     print('DisConnected')
